@@ -1,1 +1,1 @@
-- 👋 Hi, Welcome to the official repo of @thecodesplainer for the [CodeSplainer Youtube](https://youtube.com/codesplainer) channel
+- 👋 Hi, Welcome to the official repo of @thecodesplainer for the [CodeSplainer Youtube](https://youtube.com/@codesplainer) channel
